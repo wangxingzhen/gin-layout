@@ -1,0 +1,14 @@
+/conf/app.yml
+/vendor/**/*.md
+/vendor/**/*.arcconfig
+/vendor/**/AUTHORS
+/vendor/**/LICENCE
+/vendor/**/PATENTS
+/vendor/**/CONTRIBUTRORS
+/vendor/**/*.sh
+/vendor/**/Makefile
+/vendor/**/.gitignore
+/bin
+/.DS_Store
+/.idea
+*.DS_Store

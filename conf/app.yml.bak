@@ -1,0 +1,19 @@
+env: test
+
+redis_address:
+  address: 127.0.0.1:6379
+  password: "DiaoZhaTian"
+  pool_size: 30
+  dial_timeout_millisecond: 500
+  rw_timeout_millisecond: 100
+
+
+db_address:
+  database_name: "test"
+  hostname: "127.0.0.1"
+  username: "root"
+  password: "root"
+  port: 3307
+  max_open_conns: 100
+  max_idle_conns: 10
+  parse_time: true
