@@ -1,6 +1,8 @@
 # gin-layout
 `gin-layout`是基于`gin`+`wire`的脚手架。项目结构类似与微服务框架[kratos](https://github.com/go-kratos/kratos)
 
+Only supports `Go1.18+`
+
 ### 用到的相关包有：
 
 [gin](https://github.com/gin-gonic/gin) 
@@ -51,3 +53,6 @@
 └── pkg // 对一些公共包的简单封装
 
 ```
+
+### 待完善
+

@@ -10,6 +10,7 @@ master:
 .PHONY: init
 # init 安装所需包
 init:
+	go mod tidy
 	go get -u github.com/google/wire/cmd/wire@latest
 
 
